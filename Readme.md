@@ -8,6 +8,10 @@ Its performance and comparison with experimental device can be seen in [2]. Furt
 
 Please note that this file will ONLY run on COMSOL 5.4 in its current configuration.
 
+# Full Documentation
+
+[Introduction](introductiontofinfets.md)
+
 # References
 
 [1] O. Penzin, G. Paasch, and L. Smith, “Nonparabolic multivalley quantum correction model for InGaAs double-gate structures,” *IEEE Trans. Electron Devices*, vol. 60, no. 7, pp. 2246–2250, Jul. 2013, doi:10.1109/TED.2013.2264165.
